@@ -38,3 +38,14 @@ db
 *.qdf
 *.cdf
 *.sdc
+*.ocp
+
+NCO/
+*.qip
+
+*.stp
+
+*.log
+
+Shift/
+*.xml
