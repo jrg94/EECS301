@@ -74,4 +74,11 @@ lab4/V/Shift_Megafunction_DAC.v
 lab4/V/Shift_Megafunction_DAC_bb.v
 
 V_provided/
+
 *.bsf
+
+lab5/V/clock_megafunction.v
+
+lab5/V/clock_megafunction_bb.v
+
+video_pll/
