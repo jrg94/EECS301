@@ -17,7 +17,7 @@ timing
 greybox_tmp
 *.html
 *.mif
-*.txt 
+*.txt
 *~
 *example*
 *sopc_*
@@ -32,3 +32,9 @@ db
 *.sopc_builder
 *.summary
 *.tcl
+*.ddb
+*.qpf
+*.qsf
+*.qdf
+*.cdf
+*.sdc
